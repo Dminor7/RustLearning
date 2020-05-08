@@ -1,2 +1,0 @@
-[workspace]
-members = ["compound_types", "control_flow", "functions", "guessing_game", "hello_cargo", "variables"]
